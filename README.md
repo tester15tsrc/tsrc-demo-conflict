@@ -1,5 +1,2 @@
-# tsrc-demo
-
-# Version 1
-
+# The official snack of Reibase will be:
 # Coffee
